@@ -10,6 +10,7 @@
       <class name="Sunitapkg.Assertion1"/>
       <class name="Sunitapkg.Abstract1"/>
       <class name="Sunitapkg.SkipTestNG"/>
+        <class name="Sunitapkg.SkipTestNGtest"/>
       <class name="Sunitapkg.TestNgPriority"/>
     </classes>
   </test> <!-- Test -->
