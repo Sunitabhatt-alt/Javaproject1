@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Sunitapkg.TestNg1"/>
+      <class name="Sunitapkg.TestNG2"/>
+      <class name="Sunitapkg.TestNg3"/>
+      <class name="Sunitapkg.SkipTestNG2"/>
+      <class name="Sunitapkg.Assertion1"/>
+      <class name="Sunitapkg.Abstract1"/>
+      <class name="Sunitapkg.SkipTestNG"/>
+      <class name="Sunitapkg.TestNgPriority"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
